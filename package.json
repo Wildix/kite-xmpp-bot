@@ -1,0 +1,12 @@
+{
+  "name": "wildix-bot",
+  "version": "0.0.1",
+  "description": "Wildix Kite SDK for bots",
+  "dependencies": {
+    "@xmpp/client": "0.12.0",
+    "eventemitter3": "4.0.7",
+    "pino": "6.10.0",
+    "pino-pretty": "4.3.0",
+    "callsites": "3.1.0"
+  }
+}
