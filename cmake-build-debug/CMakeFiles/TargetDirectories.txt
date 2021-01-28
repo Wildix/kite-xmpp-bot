@@ -1,3 +1,0 @@
-/Users/sem/git/kite-xmpp-bot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/sem/git/kite-xmpp-bot/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/sem/git/kite-xmpp-bot/cmake-build-debug/CMakeFiles/kite_xmpp_bot.dir
